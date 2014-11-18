@@ -13,6 +13,11 @@
         width:40%;
         float: right;
     }
+    #gallery{
+        clear: left;
+        margin-top: 185px;
+    }
+
 
 
 
@@ -34,7 +39,7 @@
 
 
     /******************************
-    PAGE: PORTFOLIO
+    PAGE: ABOUT
     *******************************/
 
     .profile-pic{

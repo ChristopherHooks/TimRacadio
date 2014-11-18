@@ -37,8 +37,13 @@ header{
     margin: 0 0 30px 0;
     padding: 5px 0 0 0;
     width: 100%;
+    /*Make fixed*/
     position: fixed;
     top: 0;
+    /*Add shadow*/
+    -webkit-box-shadow: 0 0 8px 0 #000;
+    -moz-box-shadow: 0 0 8px 0 #000;
+    box-shadow: 0 0 8px 0 #000;
 
 }
 
