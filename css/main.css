@@ -197,7 +197,7 @@ body{
 }
 /*green header*/
 header{
-    background: deepskyblue;
+    background: #00BFFF;
     border-color:#599a68;
 }
 /*logo text*/
@@ -206,7 +206,7 @@ h1, h2{
 }
 /*nav bg on mobile*/
 nav{
-    background: dodgerblue;
+    background: #1E90FF;
 }
 /*nav links color*/
 nav a, nav a:visited{
